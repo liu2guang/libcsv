@@ -38,7 +38,7 @@ Jiger:{如果值中有双引号，使用一对双引号来表示原来的一个�
 - RT-Thread 3.0+，对 bsp 无依赖
 - demo程序依赖 [optpaser](https://github.com/liu2guang/optparse) (getopt-like for rtt)在线包. 
 
-> 注: 该仓库基于libcsv-3.0.3 【[源仓库地址](https://sourceforge.net/projects/libcsv/ "点击跳转")】版本进行移植人. 
+> 注: 该仓库基于libcsv-3.0.3 【[源仓库地址](https://sourceforge.net/projects/libcsv/ "点击跳转")】版本进行移植. 
 
 ### 1.5、demo程序
 libcsv目前提供了一个验证csv文件是否合法的例程. 
