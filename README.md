@@ -1,4 +1,7 @@
 # libcsv pkg #
+
+[![Build Status](https://travis-ci.org/liu2guang/libcsv.svg?branch=master)](https://travis-ci.org/liu2guang/libcsv)
+[![release](https://img.shields.io/badge/Release-v3.0.4-orange.svg)](https://github.com/liu2guang/libcsv/releases)
 ---
 
 ## 1、介绍
