@@ -1,4 +1,5 @@
-## libcsv ##
+# libcsv pkg #
+---
 
 ## 1、介绍
 
@@ -72,7 +73,7 @@ libcsv目前提供了一个验证csv文件是否合法的例程.
 GNU Library or Lesser General Public License version 2.0 (LGPLv2). 
 更多关于许可信息请浏览`COPYING.LESSER`文件和源作者仓库的许可声明, 或者直接联系原作者本人. 
 
-## 6、联系方式 & 感谢、
+## 6、联系方式 & 感谢
 * 感谢：[rgamble](https://sourceforge.net/u/rgamble/profile/) 编写了libcsv库. 
 * 维护：[liu2guang](https://github.com/liu2guang).
 * 主页：https://github.com/liu2guang/libcsv. 
